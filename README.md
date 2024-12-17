@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/kotaro-yamasaki/kotaro-yamasaki/output/github-contribution-grid-snake.svg)
+
 ## Howlow =(^.^)=
 I'm Kotaro Yamasaki, an undergraduate student at the Department of Economic Engineering, School of Economics, Kyushu University.
 

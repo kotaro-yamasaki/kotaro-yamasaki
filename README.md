@@ -1,5 +1,5 @@
 ## Howlow =(^.^)=
-I am Kotaro Yamasaki, an undergraduate student at the Department of Economic Engineering, School of Economics, Kyushu University.
+I'm Kotaro Yamasaki, an undergraduate student at the Department of Economic Engineering, School of Economics, Kyushu University.
 
 ## Stats
 <p align="left"> 

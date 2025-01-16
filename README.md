@@ -9,6 +9,4 @@ I'm Kotaro Yamasaki, an undergraduate student at the Department of Economic Engi
   <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaro-yamasaki&layout=compact&theme=radical" />
 </p>
 
-# Trophys
-![trophy](https://github-profile-trophy.vercel.app/?username=kotaro-yamasaki&theme=radical&column=8
-)
+

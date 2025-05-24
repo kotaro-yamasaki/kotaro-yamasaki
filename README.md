@@ -2,6 +2,7 @@
 
 # Howlow =(^.^)=
 I'm Kotaro Yamasaki, an undergraduate student at the Department of Economic Engineering, School of Economics, Kyushu University.
+<p>I am involved in "Digital Democracy 2030".</p>
 
 # Stats
 <p align="left"> 

@@ -11,5 +11,5 @@ I am involved in "Digital Democracy 2030," an OSS community dedicated to co-crea
 </p>
 
 # Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=kotaro-yamasaki&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotaro-yamasaki&theme=radical&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
